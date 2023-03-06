@@ -1,0 +1,48 @@
+
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(­úå¯
+o
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘óÑ©
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(õï¸Íıÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÈà¢üÿÿÿÿ
+p
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(»¤ñ 
+E
+java:S1066“"/Merge this if statement with the enclosing one.(»»–V
+K
+java:S1066”"/Merge this if statement with the enclosing one.(ºÿ½Üÿÿÿÿÿ
+K
+java:S1066•"/Merge this if statement with the enclosing one.(ôæàïıÿÿÿÿ
+K
+java:S1066–"/Merge this if statement with the enclosing one.(ÏäÀÈûÿÿÿÿ
+f	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Â—U
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—ı·…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Üı©Æ
+D
+java:S1172#"/Remove this unused method parameter "products".(œªÏ~
+B
+java:S1125,"'Remove the unnecessary boolean literal.(Üˆ´Éÿÿÿÿÿ
+P
+java:S2209["5Change this instance-reference to a static reference.(ûèÚæúÿÿÿÿ
+l
+java:S1201‘"UEither override Object.equals(Object), or rename the method to prevent any confusion.(å„•
+]
+java:S1126 "AReplace this if-then-else statement by a single return statement.(®¨¤ùÿÿÿÿ
+X
+java:S1126§"AReplace this if-then-else statement by a single return statement.(÷ À
+W
+java:S1126®"AReplace this if-then-else statement by a single return statement.(¿s
+X
+java:S1126µ"AReplace this if-then-else statement by a single return statement.(Ãœ€
+]
+java:S1126¼"AReplace this if-then-else statement by a single return statement.(ßìûáşÿÿÿÿ
+c	java:S116ø"MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÖÒß
+N
+java:S1068L"8Remove this unused "EUROPEAN_DATE_FORMAT" private field.(Õ’“„
+C
+java:S1068÷",Remove this unused "username" private field.(‘ó¹²
+=
+java:S1068ø"&Remove this unused "Id" private field.(›ÖÒß
